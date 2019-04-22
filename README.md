@@ -1,9 +1,1 @@
-# learn-git
-learn how to use git &amp;&amp; github
-add one
-add two
-add three
-this is commited content;
-
-dev braches;
 

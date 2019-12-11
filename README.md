@@ -1,5 +1,4 @@
-add 1
-test tag
 add 2
 add 3
 dev2dev2dev2dev2dev2dev2dev2dev2dev2dev2dev2dev2dev2dev2dev2dev2
+我是git2中修改新增的一行话

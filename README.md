@@ -2,3 +2,4 @@ add 2
 add 3
 dev2dev2dev2dev2dev2dev2dev2dev2dev2dev2dev2dev2dev2dev2dev2dev2
 我是git2中修改新增的一行话
+git2第二次新增
